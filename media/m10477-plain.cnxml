@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE document PUBLIC "-//CNX//DTD CNXML 0.5 plus MathML//EN" "http://cnx.rice.edu/cnxml/0.5/DTD/cnxml_mathml.dtd">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" id="id11940225">
+  <name>Kỹ thuật tinh chế dầu thực vật</name>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml/0.4">
+  <md:version>1.1</md:version>
+  <md:created>2007/11/16 01:58:40.518 US/Central</md:created>
+  <md:revised>2007/11/21 03:51:23.892 US/Central</md:revised>
+  <md:authorlist>
+      <md:author id="thonguyen">
+      <md:firstname>Nguyễn</md:firstname>
+      
+      <md:surname>Thọ</md:surname>
+      <md:email>thonguyen@vocw.edu.vn</md:email>
+    </md:author>
+  </md:authorlist>
+
+  <md:maintainerlist>
+    <md:maintainer id="thonguyen">
+      <md:firstname>Nguyễn</md:firstname>
+      
+      <md:surname>Thọ</md:surname>
+      <md:email>thonguyen@vocw.edu.vn</md:email>
+    </md:maintainer>
+  </md:maintainerlist>
+  
+  <md:keywordlist>
+    <md:keyword>Dầu thực vật</md:keyword>
+    <md:keyword>Kỹ thuật tinh chế</md:keyword>
+  </md:keywordlist>
+
+  <md:abstract>Phần này trình bày ý nghĩa của việc tinh chế dầu thực vật</md:abstract>
+</metadata>
+  <content>
+    <para id="id10464566">Ý nghĩa của việc tinh chế dầu thực vật:</para>
+    <para id="id11935689">Dầu thô sau khi ép hoặc trích ly đã qua làm sạch sơ bộ như lắng, lọc, li tâm vẫn chưa sử dụng được trong công nghiệp thực phẩm vì nó còn lẫn nhiều tạp chất. Tạp chất có trong dầu có thể là nước, sáp, protit, photphatit, gluxit, các chất gây màu, mùi, các tạp chất vô cơ... Hàm lượng tạp chất phụ thuộc vào phương pháp khai thác (ép hoặc trích ly), chế độ của các quá trình kỹ thuật (nhiệt, ẩm, áp lực..), phương pháp xử lý và thời gian bảo quản dầu thô.</para>
+    <para id="id10674283">Mặc dầu hàm lượng tạp chất có trong dầu rất ít nhưng nó rất ảnh hưởng đến chất lượng dầu, làm cho dầu có màu mùi xấu, khó bảo quản lâu dài. Ngoài ra, một số tạp chất có tính độc làm hạn chế khả năng sử dụng dầu vào mục đích thực phẩm.</para>
+    <para id="id11030296">Do đó, tùy thuộc vào yêu cầu sử dụng mà cần thiết phải tách toàn bộ hoặc một số tạp chất ra khỏi dầu, quá trình này gọi là tinh chế dầu thực vật. Quá trình tinh chế có thể là tinh chế bộ phận (loại ra khỏi dầu những tạp chất như axit béo tự do, photphatit, gluxit và các tạp chất vô cơ) hoặc tinh chế hoàn chỉnh (tách toàn bộ tạp chất có trong dầu, chỉ còn lại triglyxêrit thuần khiết).</para>
+    <section id="id-16235622649">
+      <name>Các công đoạn tinh chế dầu:</name>
+      <section id="id-896906090217">
+        <name>Tách các tạp chất cơ học:</name>
+        <para id="id11620416">a. Lắng: Dựa trên cơ sở sự rơi tự do của các hạt phân tán có trong dầu dưới ảnh hưởng của trọng lực. Do chỉ dựa vào sự rơi tự do nên quá trình lắng kéo dài, vì thế yêu cầu thiết bị lắng phải có dung tích lớn. Thường thì các hạt phân tán trong dầu có khối lượng riêng 1324  1398 kg/m3 và kích thước 69  443 m.</para>
+        <para id="id12639993">Để tạo điều kiện cho quá trình lắng được nhanh, người ta thường nâng nhiệt độ để độ nhớt của dầu giảm và ở nhiệt độ này các hạt phân tán có kích thước nhỏ sẽ đông tụ tạo ra những hạt có kích thước lớn hơn nên dễ lắng. Thời điểm đông tụ là lúc bắt đầu tạo ra các hạt cở lớn, thể hiện bằng trạng thái dầu trở nên vẫn đục rõ rệt. Nhiệt độ đông tụ là nhiệt độ tại đó dầu bắt đầu đục, nhiệt độ này phụ thuộc vào phương pháp khai thác dầu (ép hoặc trích ly).</para>
+        <para id="id12639998">Nhiệt độ lắng cặn tốt nhất trong phạm vi 30  500C, thời gian lắng khoảng 1  1,5 giờ. Thiết bị lắng thường có dạng hình trụ, đáy côn, cấu tạo hai vỏ. Sơ đồ thiết bị lắng gián đoạn có cấu tạo như sau:</para>
+        <para id="id12568987">Dầu lắng</para>
+        <para id="id12640591"/>
+        <para id="id12689013"/>
+        <para id="id12330962"/>
+        <para id="id12566130"> Hơi</para>
+        <para id="id12338038"/>
+        <para id="id12567307"> dầu sau lắng</para>
+        <para id="id12812312"/>
+        <para id="id12004040"> Nước ngưng</para>
+        <para id="id12652999">Cặn</para>
+        <para id="id12967934">b. Lọc: Quá trình lọc dựa trên khả năng của các vật liệu xốp chỉ cho đi qua những phần tử có kích thước nhất định. Đối với dầu, để tách các tạp chất cơ học thường người ta dùng thiết bị lọc khung bản, nhiệt độ lọc 45  600C. Nhiệt độ cao thì tốc độ lọc nhanh nhưng có một số tạp chất hòa tan trong dầu ở nhiệt độ cao như phức photpholipit, một số hợp chất có nitơ và gluxit. Do đó, dầu sau khi lọc nóng cần phải lọc nguội để tách các tạp chất nói trên. Nhiệt độ thích hợp để lọc nguội là 20  250C.</para>
+        <para id="id10411485">c. Li tâm: Li tâm là quá trình tách tạp chất rắn của dầu bằng tác động của lực li tâm, nhờ lực li tâm, hỗn hợp dầu và tạp chất sẽ phân chia thành hai phần: dầu sạch và tạp chất. Phương pháp này dùng để tách dầu nhiều cặn và dùng để tách những cặn có kích thước bé, không thể tách được bằng phương pháp lắng, lọc. Có thể dùng hai loại máy li tâm để tách cặn: li tâm thường (4000  10000 vòng/phút) và li tâm siêu tốc (12500  45000 vòng/phút). Tùy thuộc vào số lượng cũng như đặc điểm của các hạt tạp chất đông tụ trong dầu mà chọn kiểu máy li tâm. Dầu có lượng tạp chất là protein, photphatit nhỏ hơn 0,5 % có thể dùng máy li tâm thường và nhỏ hơn 0,1 % thì dùng máy li tâm siêu tốc.</para>
+      </section>
+      <section id="id-0633430541358">
+        <name>Tách tạp chất háo nước (thủy hóa):</name>
+        <para id="id10464631">Thủy hóa hay hidrat hóa là một phương pháp xử lý dầu bằng nước, phương pháp này chủ yếu dùng để tách phốtpholipit và protit trong dầu (photpholipit và protit là hai thành phần háo nước). Trong thành phần của hai chất này không có nước tự do, tức là chúng ở dạng khan nước, hòa tan trong dầu tạo thành dung dịch thực ở điều kiện thường. Khi đưa nước ở dạng phân tán vào dầu có lẫn các loại cặn háo nước, ở điều kiện xác định (nhiệt độ, thời gian, khuấy trộn...), chúng sẽ tạo thành kết tủa và tách ra khỏi dầu. Quá trình thủy hóa bao gồm một số bước chủ yếu sau:</para>
+        <para id="id12694335">- Phân tán nước vào trong dầu, phần ưa nước của các cặn háo nước sẽ hấp thụ nước tạo ra các phức dạng hidrat,</para>
+        <para id="id12008169">- Các chất háo nước mất tính tan trong dầu, chuyển về dạng dung dịch keo,</para>
+        <para id="id12849087">- Tạo thành các hạt keo đông tụ làm cho dầu vẫn đục,</para>
+        <para id="id12004389">- Phân ly dầu ra khỏi các phức hidrat bàng phương pháp lắng hoặc li tâm.</para>
+        <para id="id12004394">Quá trình thủy hóa được thực hiện như sau: đầu tiên đun nóng dầu đến nhiệt độ 45  500C, sau đó vừa khuấy trộn vừa cho nước nóng có cùng nhiệt độ vào. Lượng nước cho vào tùy từng loại dầu nhưng thường chiếm 0,5  2 % (so với khối lượng dầu). Sau khi cho nước vào tiếp tục khuấy trộn thêm 10 phút nữa, sau đó để yên trong vòng 1 giờ. Cặn lắng xuống dưới đáy, tháo cặn ra trước và tháo dầu ra sau.</para>
+        <para id="id12564112">Quá trình thủy hóa là là công đoạn không thể thiếu đối với việc tinh chế dầu vì photpholipit có dinh dưỡng cao nên dễ tạo điều kiện cho VSV phát triển làm ảnh hưởng đến chất lượng của dầu thành phẩm. Dầu sau khi thủy hóa có chỉ số axit nhỏ hơn dầu trước khi thủy hóa khoảng 0,1  0,4 %, do các thành phần háo nước có tính axit đã được loại ra.</para>
+        <para id="id12667630">Ngoài ra, trong quá trình bảo quản dầu thô, quá trình tự thủy hóa cũng có thể xãy ra do các phần háo nước trong dầu phản ứng với ẩm của không khí (trên bề mặt thoáng) và với một phần nhỏ ẩm ở trong dầu. Quá trình tự thủy hóa tạo ra một lượng cặn lắng trong dầu thô, trong đó photpholipit chiếm khoảng 45 %, dầu 45 % nước 2  3 %, các chất không tan trong dầu 2  3 % (so với khối lượng cặn).</para>
+        <para id="id12967703">Quá trình thủy hóa được thực hiện trong những thiết bị hình trụ đáy côn có lắp bộ phận gia nhiệt kiểu ống xoắn ruột gà và có cánh khuấy.</para>
+      </section>
+      <section id="id-795198844134">
+        <name>Tách sáp:</name>
+        <para id="id12564288">Trong dầu có một lượng sáp, khi hạ nhiệt độ, một lượng sáp sẽ kết tinh, nhiệt độ kết tinh của sáp trong dầu khá khác nhau, ví dụ: dầu thô 80C, dầu qua thủy hóa 100C, dầu đã qua trung hòa bằng kiềm 120C. Ở các nhiệt độ này, sáp kết tinh thành những tinh thể có kích thước lớn và có thể tách ra khỏi dầu bằng phương pháp lắng, lọc hoặc li tâm.</para>
+        <para id="id12667901">Sau khi tạo ra các tinh thể sáp bằng cách làm lạnh dầu xuống 8  120C rồi lại đun dầu lên đến 200C, nhằm làm giảm độ nhớt của dầu và tạo cho sáp tinh thể có kích thước lớn để dễ dàng cho việc lắng, lọc hoặc li tâm. Dầu sau khi tách sáp, dù có làm lạnh xuống đến 00C vẫn không đục.</para>
+      </section>
+      <section id="id-787899476416">
+        <name>Trung hòa (tách axit béo tự do):</name>
+        <para id="id12658624">Axit béo tự do có trong dầu là một trong những nguyên nhân làm cho dầu kém phẩm chất, các axit béo tự do thường đóng vai trò xúc tác cho các phản ứng oxy hóa và phân ly dầu. Để tiến hành tách axit béo tự do có trong dầu, người ta xử lý dầu với một lượng kiềm nhỏ, như vậy, ngoài các axit béo tự do được trung hòa, còn cho phép tách thêm một số thành phần háo nước còn sót lại sau quá trình thủy hóa, loại bỏ được một số vết kim loại (Cu, Fe..) xúc tác quá trình oxy hóa dầu và còn lọai bỏ được một số các chất màu. Sự có mặt các axit béo tự do trong dầu không những gây trở ngại cho việc sử dụng dầu vào mục đích thực phẩm (chỉ số axit không lớn hơn 0,4 mg KOH) mà còn hạn chế các mục đích kỹ thuật khác.</para>
+        <para id="id12567767">Tùy thuộc vào mục đích sử dụng dầu và chỉ số axit của dầu đem đi trung hòa mà người ta chọn chế độ và tác nhân trung hòa. Nhìn chung, việc tách các axit béo tự do ra khỏi dầu cần đảm bảo các điều kiện sau đây:</para>
+        <para id="id12567771">- Tác nhân trung hòa phải nhanh chóng phản ứng với axit béo tự do, không tác dụng với dầu trung tính,</para>
+        <para id="id12649197">- Hỗn hợp nhanh chóng phân lớp và phân lớp triệt để, dầu trung tính dễ dàng tách ra khỏi cặn,</para>
+        <para id="id12651761">- Không tạo thành dung dịch nhũ tương bền.</para>
+        <para id="id12811594">Trên thực tế, chọn một số phương pháp nào đó nhằm thỏa mản các yêu cầu trên thường gặp khó khăn. Dầu trung tính bị tổn hao, phản ứng giữa các axit béo với tác nhân trung hòa không hoàn toàn nên đưa chỉ số axit về giá trị yêu cầu thường khó khăn.</para>
+        <para id="id12967169">Tác nhân trung hòa thường dùng là các loại kiềm như NaOH, KOH... hoặc các loại muối kiềm như Na2CO3...Nồng độ các tác nhân trung hòa tùy thuộc vào chỉ số axit của dầu. Đối với NaOH, người ta dùng ba loại nồng độ như sau:</para>
+        <para id="id12337778">- Kiềm loảng: 35  45 g NaOH/lít : dùng cho dầu có chỉ số axit &lt; 5 mg KOH</para>
+        <para id="id12811763">- Kiềm vừa: 85  105 g NaOH/lít : dùng cho dầu có chỉ số axit 5  7 mg KOH</para>
+        <para id="id12334343">- Kiềm đặc: &gt; =125 g NaOH/lít : dùng cho dầu có chỉ số axit &gt; 7 mg KOH</para>
+        <para id="id12568949">Hiệu quả trung hòa bằng kiềm được đánh giá bằng chỉ số axit của dầu sau khi trung hòa.</para>
+        <para id="id12515741">Trong quá trình trung hòa, axit béo tự do có trong dầu tác dụng với tác nhân trung hòa tạo muối axít béo gọi là xà phòng, xà phòng không tan trong dầu và có khối lượng riêng lớn hơn dầu nên tách ra khỏi dầu, lắng xuống đáy thiết bị.</para>
+        <para id="id12692800">a. Trung hòa bằng NaOH hay KOH:</para>
+        <para id="id12692805">Khi trung hòa bằng NaOH hay KOH ta có phản ứng: (viết cho trường hợp NaOH)</para>
+        <para id="id12652765">R-COOH+NaOH=R-COONa+H2O</para>
+        <para id="id12652038">Mặt khác, NaOH còn tác dụng với triglixêrit:</para>
+        <para id="id12334169">CH2OCOR1 CH2OH</para>
+        <para id="id12969399"/>
+        <para id="id12811144">3CH2OCOR2 + 3NaOH = 3 CHOH + R1COONa +R2COONa +R3COONa </para>
+        <para id="id10509081">CH2OCOR3 CH2OH</para>
+        <para id="id12652983">Phản ứng này làm tổn hao dầu, do đó trong quá trình trung hòa bằng kiềm thì nhiệt độ và nồng độ của dung dịch kiềm đưa vào phải thích hợp để làm thế nào giảm được hay hạn chế phản ứng này xảy ra.</para>
+        <para id="id12652988">Để tiến hành trung hòa, trước hết phải xác định chỉ số axit của dầu thô, từ đó chọn nồng độ dung dịch kiềm thích hợp và tính được lượng kiềm cần thiết để tác dụng vừa đủ với axit béo tự do mà không tác dụng với dầu trung tính. Đối với các loại dầu khác nhau, nhiệt độ trung hòa cũng được khống chế khác nhau, ngoài ra cần phải căn cứ vào chỉ số axit của dầu để xác định nhiệt độ trung hòa, thường thì nhiệt độ trung hòa dao động từ 20  950C. Nếu dầu có chỉ số axit cao thì phải tiến hành trung hòa ở nhiệt độ thấp và ngược lại. Nói một cách khác, nếu dùng dung dịch kiềm đặc (chỉ số axit của dầu cao) thì tiến hành trung hòa ở 20  250C, ngược lại nếu dùng dung dịch kiềm loãng (chỉ số axit bé) thì tiến hành trung hòa ở nhiệt độ 90  950C.</para>
+        <para id="id10527969">Quá trình trung hòa được tiến hành như sau: cho dung dịch kiềm vào bằng cách phun đều trên bề mặt của dầu và vừa khuấy trộn. Tốc độ khuấy trộn rất quan trọng, nó làm nhiệm vụ phân tán đều kiềm trong dầu, tạo điều kiện cho kiềm tiếp xúc với axit béo tự do để tạo ra cặn xà phòng. Do đó, nếu khuấy chậm, phản ứng sẽ không hoàn toàn, nếu khuấy nhanh cặn xà phòng tạo thành chưa kịp lắng đã bị phá vỡ thành những hạt nhỏ lơ lững gây khó khăn cho việc lắng cặn. Sau khi cho hết kiềm, người ta cho dung dịch muối ăn nồng độ 3  4 % để tạo điều kiện cho cặn xà phòng lắng nhanh. Để lắng trong 6 giờ, cặn xà phòng lắng xuống và dầu sẽ nổi lên trên.</para>
+        <para id="id12074428">b. Trung hòa bằng Na2CO3: Xảy ra các phản ứng sau:</para>
+        <para id="id12667742">Na2CO3+H2O=NaOH+NaHCO3</para>
+        <para id="id12970128">RCOOH+NaOH=RCOONa+H2O</para>
+        <para id="id10562800">Nếu đun nóng dầu trên 600C thì NaHCO3 bị thủy phân:</para>
+        <para id="id12566534">2NaHCO3Na2CO3+CO2+H2O</para>
+        <para id="id12562744">Na2CO3 tạo ra sẽ phản ứng với axit béo:</para>
+        <para id="id12007805">Na2CO3+2RCOOH 2 RCOONa+ CO2 + H2O</para>
+        <para id="id12005455">Phương pháp này dùng để trung hòa dầu có chỉ số axit thấp (do Na2CO3 là một kiềm yếu). Hơn nữa, khi đun nóng dầu trên 600C thì CO2 sinh ra trong quá trình phản ứng sẽ sục lên tạo điều kiện tiếp xúc giữa axit béo tự do và tác nhân trung hòa làm cho quá trình trung hòa được thuận lợi, tuy nhiên cũng do hiện tượng sục CO2 mà dầu dễ bị trào ra khỏi thiết bị, do đó thể tích thiết bị trong trường hợp này phải lớn. Hơn nữa, do hiện tượng sục CO2 làm cho các hạt xà phòng nổi lên trên mặt thoáng của dầu đem trung hòa, từ đó gây khó khăn cho quá trình lắng tách các cặn xà phòng ra khỏi dầu sau khi trung hòa. Phương pháp này ít gây tổn thất dầu vì Na2CO3không tác dụng với dầu ở nhiệt độ thấp.</para>
+        <para id="id12336200">Để tính toán lượng NaOH cần thiết dùng để trung hòa, ta dùng công thức:</para>
+        <para id="id12336206">x = (D*A*40)/56,1</para>
+        <para id="id12336210">x: lượng NaOH cần dùng để trung hòa (kg)</para>
+        <para id="id12667583">D: lượng dầu cần trung hòa (tấn)</para>
+        <para id="id12811629">A: chỉ số axit của dầu đem trung hòa</para>
+        <para id="id12811635">40: khối lượng phân tử của NaOH</para>
+        <para id="id12043768">56,1: khối lượng phân tử của KOH</para>
+        <para id="id12043774">Trong công nghiệp, người ta dùng NaOH rắn có hàm lượng 92 %, như vậy lượng NaOH 92 % dùng để trung hòa là:</para>
+        <para id="id12002810">x = (D*A*40)/56,1*100/92</para>
+        <para id="id12004178">Mặt khác, không những NaOH kết hợp với axit béo tự do mà nó còn kết hợp với một số chất khác có trong dầu, vì vậy khi tính toán lượng NaOH cho vào trung hòa cần phải có hệ số kiềm dư, hệ số kiềm dư dao động từ 1,05 đến 3, được xác định trong phòng thí nghiệm, mhư vậy lượng NaOH sẽ được tính:</para>
+        <para id="id12566216">x = *(D*A*40)/56,1*100/92</para>
+        <para id="id12814034"/>
+        <para id="id12002233">: hệ số kiềm dư</para>
+        <para id="id12146221">Quá trình trung hòa được thực hiện trong những thiết bị hình trụ đáy côn, sơ đồ cấu tạo như sau:</para>
+        <figure id="id12659570">
+          <media type="image/jpg" src="graphics1.jpg">
+            <param name="height" value="368"/>
+            <param name="width" value="197"/>
+          </media>
+        </figure>
+        <para id="id12964149">1: cửa cho kiềm vào2: bộ phận khuấy3: ống dẫn hơi</para>
+        <para id="id12325562">4: cửa tháo dầu5: cửa nạp dầu6: cửa tháo cặn</para>
+      </section>
+      <section id="id-00976507629604">
+        <name>Rửa và sấy dầu:</name>
+        <para id="id12969792">Dầu sau khi thủy hóa, trung hòa vẫn còn một số tạp chất tan vào dầu như cặn xà phòng, một số cặn còn lơ lững chưa tách được như photphatit, để tách tạp chất này, người ta tiến hành rửa và sấy dầu. Nếu rửa bằng nước thường, các tạp chất sẽ tạo với nước thành dung dịch keo làm khó khăn cho quá trình lắng. Do đó, để tiến hành rửa, đầu tiên người ta dùng nước muối đun sôi có nồng độ 8  10 %. Khi cho dung dịch nước muối vào, xà phòng sẽ mất tính gây nhũ hóa, dễ dàng lắng xuống đáy thiết bị. Sau khi rửa bằng nước muối, để lắng 40  50 phút rồi tháo nước muối và cặn xà phòng vào bể thu hồi dầu, tiếp theo rửa lại 3  4 lần bằng nước nóng.</para>
+        <para id="id12568851">Sau khi rửa, lắng và tách nước xong, trong dầu vẫn còn nước dưới dạng những hạt phân tán nhỏ , do đó cần phải sấy để tách nước. Nếu không sấy thì nước sẽ làm cho dầu bị oxy hóa. Có thể sấy chân không hoặc sấy dưới áp suất thường. Sấy chân không sẽ chất lượng dầu cao hơn vì quá trình sấy được tiến hành ở nhiệt độ thấp, dầu sẽ không bị sẩm màu do nhiệt độ cao. Trong quá trình sấy nếu thấy mặt thoáng của dầu phẳng lặng thì dầu đã hết nước. Nếu sấy ở áp suất thường, nhiệt độ sấy khoảng 1000 C, còn sấy chân không thì nhiệt độ sẽ thấp hơn tùy thuộc vào độ chân không được tạo ra. Thông thường, rửa và sấy được thực hiện trong cùng một thiết bị, sơ đò của thiết bị rử và sấy dầu như sau:</para>
+        <para id="id12145052">1: trục khuấy</para>
+        <para id="id12564334">2: áp kế</para>
+        <para id="id11073718">3: bộ phận phun nước</para>
+        <para id="id12667927">4: ống dầu vào</para>
+        <para id="id12667931">5: tai đỡ</para>
+        <para id="id12667936">6: cánh khuấy</para>
+        <para id="id12970190">7: vỏ hơi</para>
+        <para id="id12970195">8: ống tháo nước rửa</para>
+        <para id="id12970200">9: ống tháo dầu</para>
+        <para id="id12002173">10: ống hơi vào</para>
+        <para id="id12002177">11: ống tháo nước ngưng</para>
+        <para id="id12002182">12: cửa quan sát</para>
+        <para id="id10509511">Trong quá trình rửa, nước rửa còn mang theo một lượng dầu nên cần phải thu hồi lượng dầu này ở bể thu hồi dầu có chia ngăn.</para>
+      </section>
+      <section id="id-146962432351">
+        <name>Tẩy màu, tẩy mùi:</name>
+        <para id="id12338422">a. Tẩy màu: Sự có mặt của các chất màu trong dầu làm cho dầu có màu sắc, ngoài ra, trong quá trình chế biến cũng làm cho dầu có màu sắc (màu của phản ứng caramen và melanoidin). Do đó, để đảm bảo cho các sản phẩm thực phẩm (có dùng dầu để́ chế biến) có màu sắc đẹp thì tẩy màu dầu là điều cần thiết. Do các chất hấp phụ màu không có khả năng liên kết các dạng chất màu lên bề mặt của nó là như nhau nên việc tẩy màu chỉ có hiệu quả một khi chất hấp phụ sử dụng là một hỗn hợp các chất. Các chất hấp phụ thường được sử dụng trong công nghệ tinh chế dầu là silicagen, than (than gỗ hoặc than xương) hoạt tính và đất hoạt tính...</para>
+        <para id="id12338426">Để tẩy màu dầu, người ta thường dùng kết hợp đất và than hoạt tính, tỉ lệ so với lượng dầu khoảng 3  5 %, tỉ lệ giữa than và đất là 1:2. Cần chú ý rằng khi tỉ lệ các chất hấp phụ cho vào dầu lớn thì tổn thất dầu theo chất hấp phụ càng nhiều, tuy rằng khả năng làm sáng màu dầu có tăng lên.</para>
+        <para id="id12564227">Người ta tiến hành tẩy màu trong các thiết bị gián đoạn có độ chân không 690  700 mmHg, có cánh khuấy, gia nhiệt gián tiếp đến nhiệt độ 90  950 C trong thời gian khoảng từ 2  2,5 giờ (tính cả thời gian lọc). Sau khi tẩy màu, tiến hành lọc dầu bằng máy lọc khung bản, hoặc dùng máy li tâm để tách các chất hấp phụ ra khỏi dầu, nhiệt độ lọc khoảng &lt; 600 C.</para>
+        <para id="id11997424">Ngoài ra cũng có thể tẩy màu dầu bằng một hệ thống thiết bị hoạt động liên tục có sơ đồ như sau:</para>
+        <figure id="id12811034">
+          <media type="image/png" src="graphics2.png">
+            <param name="height" value="376"/>
+            <param name="width" value="533"/>
+          </media>
+        </figure>
+        <para id="id12652243">1,4: Lưu lượng kế2,11: Thiết bị đun nóng3: Thiết bị khử khí</para>
+        <para id="id11983663">5: Thiết bị khuấy trộn6,7: Thùng chứa đất, than8: Vít tải</para>
+        <para id="id12652043">9,13: Tuy-e chân không10,14: Bơm12: Thiết bị tẩy màu</para>
+        <para id="id12337729">15: Thiết bị lọc16: Thiết bị làm nguội</para>
+        <para id="id12337738">b. Tẩy mùi: Tẩy mùi là quá trình tách ra khỏi dầu các hợp chất gây mùi, những chất gây mùi hoặc đã có sẵn trong nguyên liệu hoặc do ảnh hưởng của các tác nhân bên ngoài đưa vào (ví dụ mùi của đất, than hoạt tính...). Những chất gây mùi thường là những chất dễ bay hơi như các axit béo phân tử thấp, các ester...Quá trình tẩy mùi được tiến hành trong những thiết bị có độ chân không cao (40  60 mmHg), gia nhiệt trực tiếp bằng hơi quá nhiệt và gián tiếp bằng hơi dầu dowthern. Nhiệt độ tẩy mùi có liên quan trực tiếp đến thời gian tẩy mùi, nếu nhiệt độ tẩy mùi khoảng 200  2350 C thì thời gian tẩy mùi kéo dài từ 1,5  3 giờ, khi nhiệt độ tẩy mùi &gt; 2500 C thì thời gian tẩy mùi chỉ còn khoảng 0,5 giờ. Ở điều kiện nhiệt độ tẩy mùi cao và thời gian tẩy mùi ngắn cho phép tiết kiệm được năng lượng và chất lượng dầu thành phẩm sẽ tốt hơn. Tuy nhiên, cần phải có những hệ thống thiết bị đáp ứng được những điều kiện làm việc trên (nhiệt độ cao và thời gian ngắn). Sau đây là sơ đồ một hệ thống khử mùi liên tục:</para>
+        <figure id="id12967952">
+          <media type="image/png" src="graphics3.png">
+            <param name="height" value="350"/>
+            <param name="width" value="531"/>
+          </media>
+        </figure>
+        <para id="id12003628">1,6,10: Bơm2: Lưu lượng kế3: TB đun nóng sơ bộ</para>
+        <para id="id12003642">4: TB truyền nhiệt, khử khí5,11: Điều chỉnh nhiệt độ7: TB đun nóng</para>
+        <para id="id12813578">8: TB tẩy mùi9: Ống xoắn ruột gà 12: TB làm nguội</para>
+        <para id="id12567510">13: TB ngưng tụ, phân ly axit béo14: Vách ngưng</para>
+        <para id="id12964768">15: TB làm lạnh16: Ống dẫn axit béo17: Bộ điều chỉnh tự động</para>
+        <para id="id12967656">18: Bình chứa axit béo19: Dầu thu từ TB phân ly</para>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<!DOCTYPE document PUBLIC "-//CNX//DTD CNXML 0.5 plus MathML//EN" "http://cnx.rice.edu/cnxml/0.5/DTD/cnxml_mathml.dtd">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:bib="http://bibtexml.sf.net/" id="id12564877">
+  <name>Kỹ thuật sản xuất cà phê</name>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml/0.4">
+  <md:version>1.1</md:version>
+  <md:created>2007/11/16 02:14:23.490 US/Central</md:created>
+  <md:revised>2007/11/17 10:10:13.056 US/Central</md:revised>
+  <md:authorlist>
+      <md:author id="thonguyen">
+      <md:firstname>Nguyễn</md:firstname>
+      
+      <md:surname>Thọ</md:surname>
+      <md:email>thonguyen@vocw.edu.vn</md:email>
+    </md:author>
+  </md:authorlist>
+
+  <md:maintainerlist>
+    <md:maintainer id="thonguyen">
+      <md:firstname>Nguyễn</md:firstname>
+      
+      <md:surname>Thọ</md:surname>
+      <md:email>thonguyen@vocw.edu.vn</md:email>
+    </md:maintainer>
+  </md:maintainerlist>
+  
+  <md:keywordlist>
+    <md:keyword>Cà phê</md:keyword>
+    <md:keyword>Kỹ thuật sản xuất</md:keyword>
+  </md:keywordlist>
+
+  <md:abstract>Phần này trình bày về nguyên liệu sản xuất cà phê</md:abstract>
+</metadata>
+  <content>
+    <para id="id3093557">KỸ THUẬT SẢN XUẤT CÀ PHÊ</para>
+    <section id="id-378841115658">
+      <name>Nguyên liệu:</name>
+      <section id="id-37234207943">
+        <name>Phân loại:</name>
+        <para id="id7630111">Trên thế giới, cà phê có rất nhiều loại, đây là một loại cây có khả năng thích nghi với môi trường. Hiện nay, các nước trên thế giới cũng như ở nước ta đều trồng ba loại cà phê là: arabica (cà phê chè), canephora (cà phê vối), excelsa (cà phê mít).</para>
+        <para id="id10995229">a. Cà phê chè (arabica): là loại cà phê được trồng và tiêu thụ nhiều nhất trên thế giới, chiếm 9/10 tổng sản lượng cà phê. Cây cao 3  5 m, có khi 7  10 m, độc thân hoặc nhiều thân, vỏ mốc trắng, gỗ vàng ngà, hoa mọc thành từng chùm gồm 5 cánh màu trắng, thời gian ra hoa ở nước ta từ tháng 2 đến tháng 4. Quả hình trứng hay hình tròn, khi chín có màu đỏ tươi, kích thước quả: dài 17  18 mm, đường kính tiết diện 10  15 mm, 500  700 quả/kg, thời gian từ lúc có quả đến lúc chín 6  7 tháng, thời vụ thu hoạch từ tháng 9 đến tháng 2. Hạt có vỏ lụa màu bạc, ít bám vào nhân, kích thước: dài 5  10 mm, rộng 4  7 mm, dày 2  4 mm, kích thước này thay đổi theo từng loại và theo điều kiện môi trường. Khối lượng 500  700 hạt/100g, hàm lượng cafein 1,3 %, hạt có màu xám xanh, xanh lục tùy theo chủng và cách chế biến, năng suất 400  500kg cà phê nhân/ha. Tỉ lệ thành phẩm (cà phê nhân) so với nguyên liệu (cà phê quả tươi) là 14  20 %.</para>
+        <para id="id11549151">Cà phê chè là loại cà phê được ưa chuộng nhất do hương thơm và mùi vị tốt.</para>
+        <para id="id3093522">b. Cà phê vối (canephora): Cây cao từ 3  8 m, vỏ cây mốc trắng, gỗ vàng hoặc trắng ngà, hoa màu trắng mọc thành cụm có 5  7 cánh, mùa hoa từ tháng 4 đến tháng 6. Quả hình tròn hoặc hình trứng, khi chín có màu đỏ hoặc hồng, trên quả thường có đường gân dọc, vỏ quả mỏng so với cà phê chè, thời gian từ khi có quả đến lúc chín 10  12 tháng, thời vụ thu hoạch từ tháng 1 đến tháng 4. Hạt hình bầu dục hay tròn, vỏ lụa trắng dễ bong, khoảng 600  900 hạt/100g, hạt dài 5  8 mm, hạt có màu xanh bạc, xanh lục hoặc xanh nâu tùy theo chủng và cách chế biến, hàm lượng cafein 2  3 %, đây là loại cà phê có nhiều cafein nhất.</para>
+        <para id="id11707946">Năng suất trồng trọt 500  600 kg cà phê nhân/ha, ít hương thơm, thường dùng để pha trộn với cà phê chè hay để chế biến cà phê hòa tan và bánh kẹo cà phê. Loại cà phê này giá trị thương phẩm kém nhưng lại chịu được hạn, ít kén đất và ít bị sâu bệnh.</para>
+        <para id="id12829023">c. Cà phê mít (excelsa): Cây cao từ 6  15 m, nếu đất tốt có thể cao đến 20m. Hoa màu trắng có 5 cánh, quả hình trứng hơi ép ngang, quả chín có màu đỏ, to và dày. Khối lượng 500  700 quả/kg. Hình dạng hạt cà phê mít giống như hạt cà phê chè, màu vàng xanh hay màu vàng rạ, vỏ lụa dính sát vào nhân, khó bong, khoảng 700  1000 hạt/100g, hàm lượng cafein 1  1,2 %.</para>
+        <para id="id9505447">Năng suất 500  600 kg cà phê nhân/ha, tỉ lệ thành phẩm (cà phê nhân) so với cà phê quả tươi khoảng 10  15 %.</para>
+        <para id="id11549472">Giá trị thương phẩm không cao do hạt không đều, khó chế biến, hương vị thất thường, tuy nhiên đây là loại cà phê chịu được hạn, ít kén đất và ít bị sâu bệnh.</para>
+      </section>
+      <section id="id-285474467993">
+        <name>Cấu tạo giải phẩu quả cà phê:</name>
+        <figure id="id10069517">
+          <media type="image/png" src="graphics1.png">
+            <param name="height" value="292"/>
+            <param name="width" value="561"/>
+          </media>
+        </figure>
+        <para id="id10458029">Quả cà phê đưa vào chế biến gồm có các phần sau: lớp vỏ quả, lớp nhớt (vỏ nhớt), lớp vỏ trấu (lớp vỏ thóc), lớp vỏ lụa và nhân.</para>
+      </section>
+      <section id="id-80962865445">
+        <name>Tỉ lệ giữa các thành phần cấu tạo của quả cà phê: (tính theo % quả tươi)</name>
+        <table id="id9797925">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Thành phần</entry>
+                <entry>Cà phê chè (arabica) %</entry>
+                <entry>Cà phê vối (canephora) %</entry>
+              </row>
+              <row>
+                <entry>Vỏ quả</entry>
+                <entry>43  45</entry>
+                <entry>42</entry>
+              </row>
+              <row>
+                <entry>Lớp nhớt</entry>
+                <entry>20  23</entry>
+                <entry>23</entry>
+              </row>
+              <row>
+                <entry>Vỏ trấu</entry>
+                <entry>6  8</entry>
+                <entry>6  8</entry>
+              </row>
+              <row>
+                <entry>Nhân và vỏ lụa</entry>
+                <entry>26  30</entry>
+                <entry>29</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10017431"/>
+      </section>
+      <section id="id-64970413846">
+        <name>Thành phần hóa học:</name>
+        <para id="id11043063">Ta có các bảng sau: </para>
+        <table id="id9541451">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Thành phần</entry>
+                <entry>Cà phê che ̀ (arabica) %</entry>
+                <entry>Cà phê vối (canephora) %</entry>
+              </row>
+              <row>
+                <entry>Vỏ quả:ProteinLipitXenluloTroHợp chất không NĐườngTaninPectinCafeinLớp nhớt:PectinĐường khửĐường không khửXenlulo, tro</entry>
+                <entry>9  111,713336---1,233302017</entry>
+                <entry>922733815572  33946--</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5460839">Độ pH của lớp nhớt tùy theo độ chín của quả, thường từ 5,6  5,7, có khi lên đến 6,4. Trong lớp nhớt còn có men pectinaza phân giải pectin.</para>
+        <para id="id10652744">Thành phần chủ yếu của lớp vỏ trấu là xenlulo và tro, trong thành phần của tro chủ yếu là silic, canxi, kali, magiê...</para>
+        <para id="id12517307">Thành phần của nhân cà phê được trình bày ở bảng sau: (xem trang sau)</para>
+        <para id="id8339301">Ngoài ra, trong nhân cà phê còn có một ít vitamin, thành phần hóa học của nhân cà phê chịu ảnh hưởng nhiều của chủng cà phê, độ chín của quả, điều kiện canh tác.</para>
+        <para id="id11549750">Để đánh giá tác dụng của thành phần hóa học nhân cà phê đến phẩm chất của nước pha cà phê thì cần phải biết những biến đổi của chúng trong quá trình chế biến, đặc biệt là quá trình rang cà phê.</para>
+        <table id="id8871931">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Thành phần</entry>
+                <entry>g/100g mẫu</entry>
+              </row>
+              <row>
+                <entry>Nước</entry>
+                <entry>8  12</entry>
+              </row>
+              <row>
+                <entry>Chất béo</entry>
+                <entry>4  18</entry>
+              </row>
+              <row>
+                <entry>Đạm</entry>
+                <entry>11  19</entry>
+              </row>
+              <row>
+                <entry>Cafein</entry>
+                <entry>0  2</entry>
+              </row>
+              <row>
+                <entry>Axit cafetanic</entry>
+                <entry>8  9</entry>
+              </row>
+              <row>
+                <entry>Tanin</entry>
+                <entry>2</entry>
+              </row>
+              <row>
+                <entry>Tinh bột</entry>
+                <entry>5  23</entry>
+              </row>
+              <row>
+                <entry>Dextrin</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Đường</entry>
+                <entry>5  10</entry>
+              </row>
+              <row>
+                <entry>Xenlulo</entry>
+                <entry>10  20</entry>
+              </row>
+              <row>
+                <entry>Hemixenlulo</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>Tro</entry>
+                <entry>2,5  4,5</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-0434413990725">
+        <name>Thu hái, vận chuyển và bảo quản:</name>
+        <para id="id5460990">a. Thu hái: thường thu hái bằng tay, trong quá trình thu hái cần chú ý những điểm sau:</para>
+        <para id="id7228726">- Phải thu hái khi quả cà phê vừa chín tới (2/3 diện tích quả có màu đỏ), không được để quá chín, quả sẽ bị rụng và tổn hao chất dự trữ trong quả.</para>
+        <para id="id12963279">- Không thu hái những quả còn xanh, vì lúc đó chất dự trữ chưa đầy đủ, trong quá trình chế biến vỏ lụa bám chặt vào nhân, khoc bóc và hạt sẽ nhăn nheo.</para>
+        <para id="id11742512">- Trong quá trình thu hái, không được làm tổn thương sây sát cây cà phê làm giảm năng suất cho mùa sau.</para>
+        <para id="id10487683">- Giữ vệ sinh trong quá trình thu hái, không được để lẫn tạp chất vào nguyên liệu, không được làm dập nát quả tạo điều kiện cho VSV xâm nhập, phát triển gây thối rữa.</para>
+        <para id="id11935701">b. Vận chuyển: trong quá trình vận chuyển nguyên liệu, cần tránh lẫn các tạp chất như: cỏ dại, đất, cát... và không được để nguyên liệu bị dập nát, nếu nguyên liệu bị dập nát cần phải đem chế biến trước. Phương tiện vận chuyển có thể dùng xe ô tô hoặc các phương tiện thô sơ khác nếu địa hình nơi thu hái cho phép.</para>
+        <para id="id12829009">c. Bảo quản: nguyên liệu đưa về nơi chế biến phải để nơi thoáng mát, có mái che, không được chất đống mà phải rải thành từng lớp dày 15  20 cm, 2  3 giờ phải đảo trộn một lần, thời gian bảo quản trước khi đưa vào chế biến càng ngắn càng tốt, thường không quá 36 giờ.</para>
+      </section>
+    </section>
+    <section id="id-621737310276">
+      <name>Kỹ thuật sản xuất cà phê nhân:</name>
+      <para id="id7175612">Để sản xuất cà phê nhân, người ta sử dụng hai phương pháp sau:</para>
+      <para id="id6572297">- Phương pháp khô: điều kiện chế biến đơn giản nhưng phụ thuộc hoàn toàn vào thời tiết, thời gian chế biến kéo dài.</para>
+      <para id="id5027545">- Phương pháp ướt: sản xuất chủ động hơn nhưng tốn nhiều thiết bị, nước và năng lượng. Tuy nhiên, sản xuất theo phương pháp này rút ngắn được thời gian chế biến và cho sản phẩm có chất lượng cao hơn. Thông thường người ta kết hợp cả hai phương pháp, sau đây là sơ đồ công nghệ sản xuất cà phê nhân bằng phương pháp kết hợp: (trang sau)</para>
+      <para id="id5027550">NGUYÊN LIỆU NGUYÊN LIỆU</para>
+      <para id="id7830257"/>
+      <para id="id8076504">PHÂN LOẠI THEO KÍCH THƯỚC</para>
+      <para id="id9660602">PHÂN LOẠI THEO TỈ TRỌNG Ủ CHÍN</para>
+      <para id="id11845666">BÓC VỎ QUẢ, VỎTHỊT</para>
+      <para id="id10608385">NGÂM, Ủ PHƠI SẤY</para>
+      <para id="id7225840">RỬA</para>
+      <para id="id3203220">LÀM RÁO, PHƠI SẤY XÁT VỎ QUẢ</para>
+      <para id="id7342760">CÀ PHÊ THÓC</para>
+      <para id="id12146118">BÓC VỎ TRẤU</para>
+      <para id="id11616074">BÓC VỎ LỤA (Đánh bóng)</para>
+      <para id="id10521594">PHÂN LOẠI THEO KÍCH THƯỚC</para>
+      <para id="id10521599">PHÂN LOẠI THEO TỈ TRỌNG </para>
+      <para id="id7130572">PHÂN LOẠI THEO MÀU SẮC</para>
+      <para id="id10970294">ĐẤU TRỘN</para>
+      <para id="id11549114">CÀ PHÊ NHÂN</para>
+      <section id="id-610500442019">
+        <name>Phân loại:</name>
+        <para id="id10503393">Phân loại nhằm mục đích tách các chất tạp chất lẫn trong nguyên liệu, làm cho kích thước nguyên liệu đồng đều, tạo điều kiện cho việc bóc vỏ được triệt để, đảm bảo chất lượng của sản phẩm. Việc phân loại thường được thực hiện theo hai bước sau:</para>
+        <para id="id11549714">a. Phân loại theo kích thước: thực hiện trên sàng phân loại, thường sử dụng sàng phẳng có 2  3 lưới sàng, kích thước lổ sàng tăng dần từ dưới lên. Yêu cầu của việc phân loại theo kích thước là phải đảm bảo loại hết tạp chất lớn, trong tạp chất không được lẫn nguyên liệu.</para>
+        <para id="id11956973">b. Phân loại theo tỉ trọng: Người ta sử dụng nước để tiến hành phân loại theo tỉ trọng, đối với cà phê chín đúng mức có tỉ trọng   1, cà phê còn xanh, non </para>
+        <para id="id12073863">có  &gt; 1, cà phê quá chín và tạp chất nhẹ có  &lt; 1. Chính vì thế mà người ta đưa khối quả cà phê vào nước để phân loại, cà phê chín đúng mức sẽ lơ lững, cà phê xanh và tạp chất nặng sẽ chìm, ngược lại cà phê chín và tạp chất nhẹ sẽ nổi. Bể xi phông có cấu tạo như sau:</para>
+        <figure id="id12064710">
+          <media type="image/png" src="graphics2.png">
+            <param name="height" value="331"/>
+            <param name="width" value="599"/>
+          </media>
+        </figure>
+        <para id="id10537575">Thường tỉ lệ nước/nguyên liệu khoảng 3/1, trong quá trình làm việc cần phải đảm bảo nguyên liệu chín đúng mức qua ống xiphông vào máy xát tươi thật đều đặn và liên tục nhưng lượng nước tiêu tốn là ít nhất. Chu kỳ làm vệ sinh bể xiphông không quá 12 giờ. Ngoài ra bể xiphông còn có tác dụng làm cho nguyên liệu ngấm nước, tạo điều kiện thuận lợi cho việc bóc vỏ quả, tuy nhiên, nếu kéo dài thời gian ngâm thì sự phân loại sẽ trở nên kém hiệu quả.</para>
+      </section>
+      <section id="id-786729021678">
+        <name>Bóc vỏ quả, vỏ thịt (xát tươi):</name>
+        <para id="id10066768">a. Mục đích: Thành phần chủ yếu của lớp vỏ quả là nước, gluxit và protein, các chất này không tham gia vào quá trình hình thành chất lượng sản phẩm mà còn gây khó khăn như thối rữa, làm kéo dài thời gian phơi sấy. Do đó vỏ quả cần phải loại bỏ. Ngoài ra, lớp vỏ thịt, thành phần chủ yếu là pectin, cũng không có lợi cho các quá trình chế biến tiếp theo nên cũng cần phải loại bỏ.</para>
+        <para id="id9928136">b. Phương pháp bóc vỏ quả, vỏ thịt: </para>
+        <para id="id9928163">- Để bóc vỏ quả, người ta thường dùng phương pháp cơ học, các máy xát kiểu Gosdon, Hamburg, Raoeng thường hay được sử dụng. Đối với máy xát đĩa kiểu Hamburg, các đĩa được bố trí gờ trên mặt để tăng hiệu quả bóc vỏ. Giữa đĩa và má điều chỉnh có khe hở, kích thước của các khe hở phụ thuộc vào từng loại cà phê, thường thì 0,5  0,8 mm. Khe hở càng nhỏ thì hiệu suất bóc cao nhưng tỉ lệ dập nát cũng cao. Sau đây là sơ đồ của máy bóc vỏ kiểu đĩa:</para>
+        <figure id="id5451718">
+          <media type="image/png" src="graphics3.png">
+            <param name="height" value="429"/>
+            <param name="width" value="486"/>
+          </media>
+        </figure>
+        <para id="id11867698">- Bóc vỏ nhớt: Sau khi bóc vỏ quả, lớp vỏ nhớt vẫn còn bám chung quanh hạt cà phê, do đó cần phải bóc lớp vỏ nhớt. Việc bóc vỏ nhớt phải đảm bảo sao cho chất lượng hạt không bị biến đổi, màu sắc của hạt sau khi bóc vỏ nhớt phải tự nhiên và tỉ lệ hạt bị dập vỡ hoặc tách cả vỏ trấu không quá 6 %. Để tách vỏ nhớt, người ta thường dùng các phương pháp sau:</para>
+        <para id="id8712417">* Phương pháp lên men: tận dụng enzym sẳn có trong vỏ thịt, chủ yếu là pectinaza. Để chất lượng cà phê tốt hơn, người ta tiến hành lên men yếm khí (lên men trong nước), trong quá trình lên men, các phần tử liên kết trong vỏ thịt dưới tác dụng của enzym sẽ bị phân cắt thành các phần tử tự do, dễ dàng trôi theo nước rữa. Để quá trình lên men tiến hành được thuận lợi, cần lên men cà phê quả vừa độ chín, bể lên men thường có thể tích 3  6 m3, nhiệt độ lên men 35  420 C, thời gian từ 10  18 giờ tùy thuộc vào từng loại cà phê. Nước dùng trong quá trình lên men phải là nước sinh hoạt, hàm lượng sắt &lt; 5 mg/lít, pH 6,9  7,2. Ngoài ra, để quá trình lên men được đều đặn, nên đảo nguyên liệu 2  3 lần trong một chu kỳ lên men.</para>
+        <para id="id12569942">* Phương pháp hóa học: thủy phân pectin trong vỏ thịt quả cà phê trong môi trường kiềm, người ta thường sử dụng Na2CO3, NaOH, Ca(OH)2, nồng độ 2 %, thời gian 2  3 giờ. Phương pháp này rút ngắn được thời gian so với phương pháp trên nhưng tốn hóa chất và mùi vị của sản phẩm không tốt.</para>
+        <para id="id7491119">Ngoài hai phương pháp trên, còn có phương pháp vi sinh vật, phương pháp cơ học..., đặc biệt đố́i với phương pháp cơ học, người ta sử dụng máy xát tươi liên hoàn Raoeng, nó thực hiện đồng thời ba nhiệm vụ: bóc vỏ quả, bóc vỏ nhớt và rữa cà phê thóc, do đó sử dụng máy xát tươi liên hoàn Raoeng sẽ cho phép rút ngắn được thời gian sản xuất. Sơ đồ của máy xát tươi Raoeng như sau:</para>
+        <para id="id12664808">Máy gồm một trục rỗng hình trụ, trên bề mặt có những đường gân nổi chia </para>
+        <figure id="id10442862">
+          <media type="image/png" src="graphics4.png">
+            <param name="height" value="370"/>
+            <param name="width" value="537"/>
+          </media>
+        </figure>
+        <para id="id8755858">làm ba đoạn rõ rệt, đoạn đầu tiên làm nhiệm vụ đưa quả cà phê vào vị trí bóc vỏ, đoạn giữa làm nhiệm vụ xé rách lớp vỏ ngoài đồng thời chà xát lớp vỏ thịt, đoạn cuối làm nhiệm vụ tiếp tục chà xát lớp vỏ thịt và gạt cà phê thóc ra ngoài.</para>
+      </section>
+      <section id="id-178638082046">
+        <name>Ngâm, ủ (lên men):</name>
+        <para id="id11572182">Quá trình này đã được thực hiện với việc bóc vỏ quả, vỏ thịt. Tuy nhiên, nếu sử dụng máy xát tươi Raoeng, có thể loại bỏ được quá trình này.</para>
+      </section>
+      <section id="id-8250474422">
+        <name>Rửa:</name>
+        <para id="id12073854">a. Mục đích: loại bỏ những phẩm vật tạo thành trong quá trình lên men, loại bỏ các vết của lớp vỏ nhớt, đây là công đoạn quan trọng vì nếu còn các phẩm vật kể trên bám vào hạt cà phê , không những chúng làm cho màu sắc của hạt, mùi vị của hạt bị ảnh hưởng mà còn kéo dài thời gian phơi sấy nữa.</para>
+        <para id="id11739942">Để tiến hành rữa, có thể dùng phương pháp cơ khí hoặc thủ công. Nếu rữa thủ công, tiến hành trong bể nước, thay nước 2  3 lần cho mỗi mẻ rữa, 15 phút khuấy đảo một lần. Rữa cơ khí tiến hành trong thiết bị rữa thùng quay, có phun nước.</para>
+        <para id="id5363942">b. Những yếu tố ảnh hưởng đến quá trình rữa:</para>
+        <para id="id9944961">- Quá trình lên men ảnh hưởng rất lớn đến quá trình rữa, nếu quá trình lên men tốt, tức là lớp vỏ nhớt được phân hủy hoàn toàn thì sẽ thuận lợi cho quá trình rữa và ngược lại.</para>
+        <para id="id9944966">- Tốc độ khuấy cũng ảnh hưởng đến quá trình rữa, nếu tốc độ khuấy nhỏ, ma sát giữa cánh khuấy và nguyên liệu ít, hiệu quả rữa không cao; ngược lại, nếu tốc độ khuấy quá lớn sẽ gây dập nát nguyên liệu và lớp vỏ trấu sẽ bong ra, từ đó, khi phơi sấy, clorofin sẽ bị oxy hóa và hạt cà phê thóc sẽ có màu xấu, thường thì tốc độ cánh khuấy khoảng 50  100 vòng/phút.</para>
+        <para id="id11734589">- Tỉ lệ nước/nguyên liệu trong quá trình rữa khoảng 0,9  1,2. Nếu tỉ lệ này lớn quá sẽ kéo dài thời gian rữa và quá trình rữa sẽ không hoàn toàn.</para>
+      </section>
+      <section id="id-453925708379">
+        <name>Làm ráo, phơi sấy:</name>
+        <section id="id-722337965337">
+          <name>Làm ráo:</name>
+          <para id="id10481861">a. Mục đích: làm mất phần nước tự do ở hạt cà phê sau khi rữa, nếu không làm ráo mà đem sấy ngay sẽ sinh ra hiện tượng "luộc" nguyên liệu tạo ra một màng cứng bên ngoài hạt cà phê làm kéo dài thời gian sấy và sấy không đều làm ảnh hưởng đến chất lượng thành phẩm.</para>
+          <para id="id10380767">Làm ráo có thể rút ngắn thời gian phơi sấy, độ ẩm của nguyên liệu có thể giảm từ 7  10 % sau công đoạn này.</para>
+          <para id="id10623194">b. Các phương pháp làm ráo:</para>
+          <para id="id12064932">- Làm ráo nước trên sân phơi: yêu cầu sân có độ nghiêng 10  120 để nước thoát dễ dàng, trên sàn làm ráo có thể đổ và phê thành từng đống nhỏ, bề dày lớp hạt khoảng 10  20 cm, thời gian làm ráo khoảng 2  4 giờ.</para>
+          <para id="id10663753">- Làm ráo trên lưới: kích thước lổ lưới phải phù hợp với từng loại cà phê để hạt không lọt qua lưới được. Lưới được đặt trên giá cách mặt đất 0,5  0,8 m để dễ thoát nước và cách ẩm ở đất, chiều dày lớp hạt trên lưới từ 12  15 cm.</para>
+          <para id="id11948416">- Làm ráo bằng phương pháp li tâm: dùng máy li tâm có tốc độ 1000  1500 vòng/phút. Phương pháp này rút ngắn được thời gian làm ráo và còn làm cho quá trình rữa được hoàn chỉnh hơn do lực li tâm kéo các chất còn sót lại trên hạt trong quá trình rữa.</para>
+        </section>
+        <section id="id-557565913832">
+          <name>Phơi:</name>
+          <para id="id10049017">a. Mục đích: phơi nhằm hạ độ ẩm xuống còn 10  12 % để thực hiện những quá trình chế biến tiếp theo.</para>
+          <para id="id9799343">b. Các yếu tố ảnh hưởng đến quá trình phơi:</para>
+          <para id="id11715198">- Nhiệt độ của không khí: phụ thuộc hoàn toàn vào thời tiết, khả năng bốc ẩm tăng lên khi thời tiết tốt.</para>
+          <para id="id9944050">- Độ ẩm của không khí thấp sẽ tăng nhanh quá trình bốc ẩm trong nguyên liệu, do đó sẽ rút ngắn thời gian phơi.</para>
+          <para id="id11726613">c. Các phương pháp phơi và yêu cầu kỹ thuật:</para>
+          <para id="id10723236">- Phơi trên liếp: liếp làm bằng tôn đục lổ, hoặc đan bằng tre, kích thước 1*2 (m), khoảng cách các liếp 20  40 cm, liếp dưới cùng cách mặt đất 0,8  1 m.</para>
+          <para id="id10232758">- Phơi trên sân: sân phơi có thể là sân xi măng, sân gạch. Về mùa hè, nhiệt độ sân phơi có thể đạt 40  500 C. Mật độ cà phê rải trên sân 10  15 kg/m2, sân phơi có độ dốc 1  2 % để dễ thoát nước. Trong quá trình phơi cần đảo trộn, cứ 1  1,5 giờ đảo trộn một lần, nên dùng các dụng cụ đảo trộn bằng gỗ hoặc nhựa để tránh tổn thương hạt. Càng về trưa, có thể tăng chiều dày lớp hạt lên 3  4 cm và sang ngày thứ hai, ở thời điểm nắng nhiều có thể tăng chiều dày lớp hạt đến 4  6 cm. Ở những ngày phơi cuối cùng, do hàm lượng nước tự do đã bay đi phần lớn, chỉ còn lại nước liên kết. Do đó, trong những ngày này cần phải để sân thật khô mới tiền hành phơi, chiều dày lớp hạt khoảng 3  4 cm và cứ 1 giờ đảo trộn một lần.</para>
+          <para id="id12331209">Phương pháp này phụ thuộc hoàn toàn vào thời tiết và chất lượng của hạt không đồng đều. Do đó, chỉ phù hợp với các cơ sở sản xuất nhỏ, nguồn năng lượng nhân tạo không có điều kiện để thực hiện.</para>
+        </section>
+        <section id="id-770707855722">
+          <name>Sấy: </name>
+          <para id="id7224262">Do nhược điểm của quá trình phơi nên người ta tiến hành sấy, vì hạt cà phê có cấu tạo đặc biệt, tốc độ chuyển ẩm từ trong ra ngoài rât́ chậm nên người ta thường sấy hạt cà phê bằng phương pháp bán liên tục.</para>
+          <para id="id9704827">a. Ảnh hưởng của quá trình sấy đến chất lượng hạt cà phê:</para>
+          <para id="id11619150">- Ở nhiệt độ cao, protein của hạt cà phê bị biến tính và keo tụ lại.</para>
+          <para id="id3211060">- Chất béo trong hạt bị phân giải ở nhiệt độ cao, do đó làm hàm lượng axit béo trong hạt tăng lên.</para>
+          <para id="id9541632">- Tinh bột trong hạt tạo thành dextrin dưới ảnh hưởng của nhiệt độ.</para>
+          <para id="id11548343">- Ở nhiệt độ cao, các loại men trong hạt bị đình chỉ hoạt động, vitamin bị tổn thất nhiều.</para>
+          <para id="id10608297">b. Thiết bị sấy cà phê và yêu cầu kỹ thuật:</para>
+          <para id="id11717287">- Sấy thủ công: lò sấy thủ công có cấu tạo như sau:</para>
+          <figure id="id10205293">
+            <media type="image/png" src="graphics5.png">
+              <param name="height" value="282"/>
+              <param name="width" value="575"/>
+            </media>
+          </figure>
+          <para id="id9541303">Lớp lưới thứ nhất cách nền 1  1,5 m, các ống truyền nhiệt được bố trí dọc theo nền. Loại lò sấy này tốn khá nhiều nhân công, năng suất bé.</para>
+          <para id="id11618173">- Sấy bằng máy sấy: phổ biến nhất là máy sấy thùng quay và tháp sấy, sau đây là sơ đồ của máy sấy thùng quay:</para>
+          <figure id="id11652177">
+            <media type="image/png" src="graphics6.png">
+              <param name="height" value="302"/>
+              <param name="width" value="470"/>
+            </media>
+          </figure>
+          <para id="id3203410">Bộ phận chính là một thùng hình trụ nằm ngang, trên thùng có bố trí các cửa để cho nguyên liệu ra vào. Chính giữa thùng là một trục rỗng làm nhiệm vụ dẫn tác nhân sấy, trên trục rỗng có gắn các ống truyền nhiệt. Thùng được chia làm 4 ngăn theo chiều dọc, trong mỗi ngăn có các cánh đảo để trộn cà phê khi thùng quay. Thời gian sấy trên máy sấy thùng quay phụ thuộc vào độ ẩm ban đầu của cà phê, nếu độ ẩm ban đầu của cà phê có giá trị từ 20  40 % thì thời gian sấy từ 16  36 giờ. Lò sấy thùng quay có nhiều ưu điểm như: ít tốn nhân công, năng suất lớn, chất lượng cà phê tốt.</para>
+        </section>
+      </section>
+      <section id="id-139802280137">
+        <name>Bóc vỏ thóc (xát khô):</name>
+        <para id="id11549020">Hạt cà phê được bao bọc bởi một lớp vỏ trấu tương đối dày và chắc chắn, thành phần chủ yếu là xenlulo, không có ích cho quá trình tiêu hóa của cơ thể và cũng không có ích cho sự hình thành chất lượng sản phẩm, do đó cần phải loại chúng ra.</para>
+        <para id="id10018577">Yêu cầu hạt cà phê sau khi xát khô phải giữ được nguyên hạt, lượng hạt nứt, vỡ càng ít càng tốt, do đó cần phải điều chỉnh hiệu suất xát &lt; 100 %.</para>
+        <para id="id10428535">Các thiết bị xát khô được thiết kế dựa trên các tác động cơ học lên nguyên liệu như đập, xé và ma sát, hai loại máy xát khô thông dụng nhất là máy xát khô Engelber và Hanxa, sau đây là sơ đồ cấu tạo của thiết bị xát khô Engelber:</para>
+        <figure id="id10576358">
+          <media type="image/png" src="graphics7.png">
+            <param name="height" value="340"/>
+            <param name="width" value="458"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id-605651538066">
+        <name>Bóc vỏ lụa (đánh bóng):</name>
+        <para id="id8723320">Cũng như lớp vỏ thóc, lớp vỏ lụa không có giá trị cho người tiêu dùng nên cần phải bóc vỏ lụa cho hạt cà phê được bóng, tăng giá trị cảm quan và tránh VSV xâm nhập.</para>
+        <para id="id10026584">Yêu cầu sau khi đánh bóng hạt cà phê, nhiệt độ của khối cà phê không quá 550 C, tỉ lệ hạt nứt vỡ không quá 1 %. Tỉ lệ vỏ lụa trong cà phê nhân phải đạt 90 % (đối với arabica), 80 % (đối với canephora) và 70 % (đối với excelsa), qui định rằng hạt có 1/2 diện tích bóc vỏ lụa trở lên được xem là hạt sạch.</para>
+        <para id="id12311299">Thiết bị đánh bóng thường có hai loại, kiểu 1 trục Smout và 2 trục kiểu Okrassa, sau đây là sơ đồ của máy đánh bóng kiểu Smout:</para>
+        <figure id="id9944107">
+          <media type="image/png" src="graphics8.png">
+            <param name="height" value="291"/>
+            <param name="width" value="350"/>
+          </media>
+        </figure>
+        <para id="id12152602">Trên trục của máy đánh bóng gồm 6 cánh xoắn khế , phần đỉnh được mài nhẳn, các cánh khế này có phần cuối cong lại để hạt chuyển động ngược lại, thân máy có bố trí các gờ có chiều nghiêng ngược chiều với chiều xoắn của trục.</para>
+      </section>
+      <section id="id-277277707008">
+        <name>Phân loại:</name>
+        <para id="id7258388">Cà phê sau khi đánh bóng là một hỗn hợp gồm: cà phê tốt, cà phê xấu, vỏ trấu, vỏ lụa, cà phê vụn...do đó cầ̀n phải phân loại để đảm bảo được yêu cầu của khách hàng và tiêu chuẩn của nhà máy. Trong sản xuất cà phê nhân, người ta thường phải phân loại theo ba phương pháp:</para>
+        <para id="id11848451">a. Phân loại theo kích thước: sử dụng sàng phân loại gồm sàng tròn hoặc sàng lắc với các lưới sàng có cở lổ khác nhau, hình dạng các lổ cũng khác nhau, nếu phân loại theo chiều rộng hạt người ta dùng lưới sàng lổ tròn hoặc vuông, nếu phân loại theo chiều dày hạt người ta dùng lưới sàng lổ dài...</para>
+        <para id="id12967949">b. Phân loại theo tỉ trọng: dựa vào sự chuyển động khác nhau của các hạt có tỉ trọng khác nhau trong luồng không khí chuyển động ngược chiều với khối hạt, mục đích của việc phân loại theo tỉ trọng nhằm loại bỏ các hạt xấu, hạt lép kém chất lượng.</para>
+        <para id="id9746281">Để phân loại theo tỉ trọng, người ta thường dùng hai loại thiết bị, loại nằm ngang và loại thẳng đứng, sau đây là sơ đồ cấu tạo của thiết bị phân loại kiểu thẳng đứng (catador)</para>
+        <figure id="id11717249">
+          <media type="image/png" src="graphics9.png">
+            <param name="height" value="452"/>
+            <param name="width" value="296"/>
+          </media>
+        </figure>
+        <para id="id10464524">Cần chú ý điều chỉnh tốc độ không khí ở ngăn I luôn luôn lớn hơn tốc độ không khí ở ngăn II. Với loại thiết bị này, có thể thu được 3 loại sản phẩm khác nhau.</para>
+        <para id="id9774858">c. Phân loại theo màu sắc: Phân loại theo kích thước và tỉ trọng chỉ loại bỏ được tạp chất, tăng độ đồng đều của khối hạt nhưng chưa thể tạo được cho khối hạt độ đồng nhất về màu sắc được, do đó, để tăng cường chất lượng của khối hạt hơn nữa, người ta tiến hành phân loại theo màu sắc. Phân loại theo màu sắc có thể tiến hành bằng thủ công hoặc bằng những thiết bị điện tử.</para>
+        <para id="id9541545">Phân loại bằng thủ công có thể thực hiện trên các băng chuyền chạy với tốc độ chậm và dừng lại theo chu kỳ để công nhân ngồi hai bên băng chuyền tiến hành phân loại. Phương pháp này tốn khá nhiều nhân công và thời gian nhưng có thể giải quyết được nhiều vấn đề mà máy móc không thể giải quyết được.</para>
+      </section>
+      <section id="id-289541144689">
+        <name>Đấu trộn, đóng bao, bảo quản:</name>
+        <para id="id9928253">Cà phê nhân được đấu trộn theo một tỉ lệ nhất định để đảm bảo hiệu quả kinh tế cho cơ sở sản xuất hoặc đảm bảo theo yêu cầu của khách hàng.</para>
+        <para id="id11726622">Đối với cà phê arabica và canephora đóng thành 2 lớp: một lớp polietilen ở trong và một lớp bằng đay gai ở ngoài, đối với cà phê excelsa chỉ cần đóng một lớp, trọng lượng mỗi bao 50 kg hoặc 70 kg.</para>
+        <para id="id11652724">Trong quá trình bảo quản cà phê nhân cần chú ý những điếm sau:</para>
+        <para id="id11547947">- Độ ẩm cà phê nhân đưa vào bảo quản &lt; 13 %,</para>
+        <para id="id9746394">- Hàm lượng tạp chất &lt; 0,5 %,</para>
+        <para id="id7423000">- Kho bảo quản phải được cách ẩm và cách nhiệt tốt,</para>
+        <para id="id11900761">- Thời gian bảo quản không quá 5 tháng.</para>
+      </section>
+    </section>
+    <section id="id-447530146788">
+      <name>Kỹ thuật sản xuất cà phê rang:</name>
+      <para id="id8120531">Nguyên liệu dùng để sản xuất cà phê rang là cà phê nhân, sơ đồ công nghệ sản xuất cà phê rang như sau:</para>
+      <para id="id5456689">CÀ PHÊ NHÂN</para>
+      <para id="id12064789">PHÂN LOẠI THEO KÍCH THƯỚC</para>
+      <para id="id9945003">XỬ LÝ NGUYÊN LIỆU</para>
+      <para id="id11633500">RANG</para>
+      <para id="id8034479">LÀM NGUỘI</para>
+      <para id="id8034484">CÀ PHÊ RANG NGUYÊN HẠT LÀM SẠCH KIM LOẠI </para>
+      <para id="id11595637">XAY</para>
+      <para id="id9799315">SÀNG</para>
+      <para id="id11637292">BỘT MỊN BỘT THÔ</para>
+      <para id="id3277403">CÀ PHÊ RANG XAY</para>
+      <section id="id-55724628296">
+        <name>Phân loại theo kích thước:</name>
+        <para id="id12057113">Cà phê nhân trong quá trình bảo quản sẽ bị gãy nát, do đó cần phải phân loại theo kích thước để quá trình rang được dễ dàng và đều đặn hơn. Thông thường người ta dùng hệ thống sàng lắc gồm 2  3 lưới sàng để phân loại.</para>
+      </section>
+      <section id="id-392488049693">
+        <name>Xử lý nguyên liệu:</name>
+        <para id="id3093378">Trong quá trình bảo quản, cà phê nhân hấp thụ nhiều mùi vị lạ, đặc biệt là mùi mốc, do đó, cần phải xử lý nguyên liệu. Các phương pháp xử lý nguyên liệu như sau:</para>
+        <para id="id10645979">- Xử lý bằng nước: chỉ áp dụng đối với những loại cà phê nguyên liệu có chất lượng cao (trong thời gian bảo quản không có mốc). Người ta tiến hành ngâm nguyên liệu trong nước 5 phút, nước sẽ ngấm vào các mao quản của hạt và hòa tan các mùi vị lạ, sau đó vớt ra để ráo.</para>
+        <para id="id10645984">- Xử lý bằng dung môi hữu cơ: sử dụng cho những loại nguyên liệu kém chất lượng hơn. Dung môi thường dùng rượu etilic 20 % V, thời gian xử lý 5  10 phút, sau đó vớt ra để ráo.</para>
+      </section>
+      <section id="id-273508278747">
+        <name>Rang:</name>
+        <para id="id9463284">Đây là giai đoạn quan trọng nhất vì hương thơm tạo thành trong quá trình này. Ở các cơ sở sản xuất nhỏ, người ta tiến hành rang trong những thiết bị rang hình cầu hoặc hình trụ, lượng cà phê cho vào &lt; 2/5 thể tích thiết bị, trên thân thiết bị có bố trí cửa để nạp và tháo nguyên liệu và các lổ để thoát ẩm. Ở các cơ sở sản xuất lớn hơn, người ta thường sử dụng loại thiết bị rang kiểu đứng có sơ đồ cấu tạo như sau:</para>
+        <figure id="id11729218">
+          <media type="image/png" src="graphics10.png">
+            <param name="height" value="412"/>
+            <param name="width" value="410"/>
+          </media>
+        </figure>
+        <para id="id11652341">Nhiệt độ rang thường khống chế trong khoảng 200  2400 C. Quá trình này gồm ba giai đoạn:</para>
+        <para id="id12062639">- Ở nhiệt độ &lt; 500 C ta thấy bốc ra nhiều khói trắng, chủ yếu là hơi nước và hơi dung môi, thể tích hạt không biến đổi. Cuối giai đoạn này ta thấy ngừng sinh khí, đây là dấu hiệu chuyển sang giai đoạn sau.</para>
+        <para id="id9799384">- Khi nhiệt độ tăng lên 1500 C thì trong hạt xảy ra quá trình tích khí nên thể tích của hạt tăng lên đột ngột, lúc này ta nghe thấy những tiếng nổ, hạt chuyển sang màu đen nhưng chưa bóng. Trong giai đoạn này ta thấy khí màu xanh thoát ra, chủ yếu là acrolein.</para>
+        <para id="id11718808">- Khi nhiệt độ lên 2200 C, giữ ở nhiệt độ này trong vòng 10  15 phút, lúc này thể tích hạt không biến đổi nữa, sự sinh khí rất yếu ớt hoặc ngừng hẳn, hạt chuyển sang màu đen bóng.</para>
+        <para id="id10461829">Trong quá trình rang, để tăng chất lượng sản phẩm, người ta cho chất béo (dầu thực vật, bơ..) vào giai đoạn cuối của quá trình rang, chất béo sẽ giữ lại các chất thơm trên bề mặt của hạt.</para>
+        <para id="id5365277">Hạt cà phê rang đạt yêu cầu có mặt ngoài đen bóng, bên trong có màu cánh gián, mùi thơm nhẹ (tốt hơn mùi thơm mạnh vì khi pha sẽ ít có mùi), vị đắng chát.</para>
+      </section>
+      <section id="id-189056881455">
+        <name>Làm nguội:</name>
+        <para id="id7895652">Quá trình làm nguội có thể thực hiện trong thiết bị rang kiểu đứng, dùng không khí để làm nguội , ở một số cơ sở sản xuất người ta có thể phun ẩm hoặc phun rượu để làm nguội nhằm mục đích tạo ra độ ẩm bảo quản (&lt; 13 %) vì khi rang độ ẩm chỉ còn 0,5  1 %. Ngoài ra việc phun rượu còn có tác dụng là tạo ra phản ứng ester hóa có mùi thơm.</para>
+        <para id="id12335980">Có một số nơi dùng dung dịch đường, tỉ lệ 2 % để phun vào cà phê đã rang nhằm mục đích làm nguội và bọc hạt cà phê một lớp màng mỏng để khỏi mất hương thơm.</para>
+        <para id="id12336016">Để tạo ra cà phê rang nguyên hạt thương phẩm, có thể phối trộn các loại cà phê lại với nhau để đáp ứng được khẩu vị của khách hàng.</para>
+        <para id="id10128279">Để tạo ra sản phẩm cà phê rang xay, cà phê rang nguyên hạt được đem đi xay nhỏ, bột cà phê xay phải lọt sàng 1,6 mm (90 %) nhưng phải được giữ lại trên sàng 0,95 mm. Bột cà phê xay có kích thước &gt; 1,6 mm được đem đi xay lại để đảm bảo yêu cầu trên.</para>
+        <para id="id11549630">Cà phê rang (đặc biệt là cà phê rang xay) rất dễ bị mất hương thơm, hấp phụ mùi lạ và dễ bị oxy hóa nên cần phải bao gói thật cẩn thận. Có thể dùng các loại bao bì như thủy tinh, polime, giấy thiếc ...để tiến hành bao gói. Ngoài ra, có thể đóng gói chân không hoặc đóng gói với các chất khí như N2, CO2...</para>
+      </section>
+    </section>
+  </content>
+</document>
