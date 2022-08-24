@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10875</md:content-id>  <md:title>Kỹ thuật sản xuất các sản phẩm nhiệt đới</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>c1b66fff-1830-4ade-8dc1-3edbde7f7373</md:uuid>
-<md:slug>ky-thuat-san-xuat-cac-san-pham-nhiet-doi</md:slug>
-</metadata>  <col:content>          <col:module document="m29871"/>                            <col:module document="m30644"/>                            <col:module document="m30281"/>                            <col:module document="m30280"/>                            <col:module document="m30284"/>                            <col:module document="m30127"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="PGS. TS Nguy&#x1EC5;n Th&#x1ECD;">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10875</md:content-id>
+    <md:title>K&#x1EF9; thu&#x1EAD;t s&#x1EA3;n xu&#x1EA5;t c&#xE1;c s&#x1EA3;n ph&#x1EA9;m nhi&#x1EC7;t &#x111;&#x1EDB;i</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>c1b66fff-1830-4ade-8dc1-3edbde7f7373</md:uuid>
+    <md:slug>ky-thuat-san-xuat-cac-san-pham-nhiet-doi</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m29871"/>
+    <col:module document="m30644"/>
+    <col:module document="m30281"/>
+    <col:module document="m30280"/>
+    <col:module document="m30284"/>
+    <col:module document="m30127"/>
+  </col:content>
+</col:collection>
